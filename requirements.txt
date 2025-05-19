@@ -1,0 +1,66 @@
+# Core FastAPI and async support
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+
+# Database
+sqlalchemy
+alembic
+pymysql
+cryptography
+
+# Trading APIs
+alpaca-trade-api
+yfinance
+polygon-api-client
+
+# Data Processing and Analysis
+pandas
+numpy
+ta
+scikit-learn
+#tensorflow
+torch
+transformers
+
+# Async Task Processing
+celery
+redis
+
+# HTTP and API clients
+httpx
+requests
+
+# Data Validation
+pydantic
+email-validator
+
+# Visualization and Reporting
+matplotlib
+seaborn
+plotly
+jinja2
+
+# Email
+aiosmtplib
+
+# Environment and Configuration
+pydantic-settings
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
+
+# Logging and Monitoring
+structlog
+sentry-sdk
+
+# Documentation
+swagger-ui-bundle
+
+# Utilities
+click
+python-dateutil
+pytz
